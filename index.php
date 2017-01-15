@@ -1,8 +1,38 @@
 <html>
  <head>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
   <title>PHP Test</title>
+  <nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">
+        Alexander   Escamilla
+      </a>
+    </div>
+  </div>
+</nav>
  </head>
  <body>
- <?php echo '<p>Hello World</p>'; ?> 
+<div class="list-group">
+  <a class="list-group-item active">
+    Chapter Exercises
+  </a>
+  <a href="#" class="list-group-item">Excersise 1</a>
+  <a href="#" class="list-group-item">Excersise 2</a>
+  <a href="#" class="list-group-item">Excersise 3</a>
+  <a href="#" class="list-group-item">Excersise 4</a>
+</div>
+<br>
+<br>
+<div class="list-group">
+  <a  class="list-group-item active">
+    Enhancements
+  </a>
+  <a href="#" class="list-group-item">Enhancements 1</a>
+  <a href="#" class="list-group-item">Enhancements 2</a>
+  <a href="#" class="list-group-item">Enhancements 3</a>
+  <a href="#" class="list-group-item">Enhancements 4</a>
+</div>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
  </body>
 </html>
