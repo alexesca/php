@@ -17,7 +17,7 @@
   <a class="list-group-item active">
     Chapter Exercises
   </a>
-  <a href="#" class="list-group-item">Excersise 1</a>
+  <a href="#" class="list-group-item">Excersise 1 <strong>(completed)</strong></a>
   <a href="#" class="list-group-item">Excersise 2</a>
   <a href="#" class="list-group-item">Excersise 3</a>
   <a href="#" class="list-group-item">Excersise 4</a>
@@ -28,7 +28,7 @@
   <a  class="list-group-item active">
     Enhancements
   </a>
-  <a href="#" class="list-group-item">Enhancements 1</a>
+  <a href="week2/productDiscount.php" class="list-group-item">Enhancements 1</a>
   <a href="#" class="list-group-item">Enhancements 2</a>
   <a href="#" class="list-group-item">Enhancements 3</a>
   <a href="#" class="list-group-item">Enhancements 4</a>
