@@ -21,6 +21,10 @@ $products =  $statement2->fetchAll();
         <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 </head>
 <body>
+<ol class="breadcrumb">
+  <li><a href="../index.php">Home</a></li>
+  <li><a href="#">week 5</a></li>
+</ol>
     <div class="row">
         <div class="col-md-3">
             <div class="row">
