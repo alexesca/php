@@ -21,6 +21,7 @@
   <a href="#" class="list-group-item">Excersise 2</a>
   <a href="#" class="list-group-item">Excersise 3</a>
   <a href="#" class="list-group-item">Excersise 4</a>
+  <a href="#" class="list-group-item">Excersise 5 <strong>(completed)</strong></a>
 </div>
 <br>
 <br>
@@ -31,7 +32,8 @@
   <a href="week2/productDiscount.php" class="list-group-item">Enhancements 1</a>
   <a href="#" class="list-group-item">Enhancements 2</a>
   <a href="#" class="list-group-item">Enhancements 3</a>
-  <a href="#" class="list-group-item">Enhancements 4</a>
+  <a href="week5/index.php" class="list-group-item">Enhancements 4<strong>(completed)</strong></a>
+  <a href="week5/index.php" class="list-group-item">Enhancements 5<strong>(completed)</strong></a>
 </div>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
  </body>
