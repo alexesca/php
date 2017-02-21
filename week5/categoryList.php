@@ -17,7 +17,8 @@ include_once '../db/connection.php';
 $categoryQuery = "select * from categories";
 $statement = $db->prepare($categoryQuery);
 $statement->execute();
-$categories =  $statement->fetchAll();
+$categories = 
+$statement->fetchAll();
 ?>
         <?php foreach($categories as $item): ?>
         <?php $id = $item['id'];?>
