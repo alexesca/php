@@ -33,7 +33,7 @@
             <label>Number of Years:</label>
             <input type="text" name="years"
                    value="<?php echo $years; ?>"/><br>
-            <input type="checkbox" name="compound" value="1">Compund Interes
+            <input type="checkbox" name="compound" value="1">Monthly Compound Interes
         </div>
         <input type="hidden" name="action" value="calculate"/>
         <div id="buttons">
